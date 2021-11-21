@@ -33,7 +33,7 @@ Escribimos en la terminal el mensaje que ha aparecido y ya lo tendríamos actual
 
 
 
-#### **4. Crear en */home/nuestrousuario*/ un folder llamado *ejercicios* **
+#### **4. Crear en */home/nuestrousuario*/ un folder llamado *ejercicios*.**
 
 
 
@@ -64,7 +64,7 @@ Escribimos en la terminal el mensaje que ha aparecido y ya lo tendríamos actual
 
 
 
-#### **7. Creamos un archivo de texto dentro del folder *EjercicioImarkdown*, escribimos: *texto*, y lo salvamos adecuadamente con el nombre *parte_1* **
+#### **7. Creamos un archivo de texto dentro del folder *EjercicioImarkdown*, escribimos: *texto*, y lo salvamos adecuadamente con el nombre *parte_1*.**
 
 
 
@@ -179,7 +179,7 @@ Escribimos en la terminal el mensaje que ha aparecido y ya lo tendríamos actual
 
 
 
-#### **20. Concatenamos los tres archivos y al nuevo archivo lo llamamos: textoTotal* **
+#### **20. Concatenamos los tres archivos y al nuevo archivo lo llamamos: textoTotal*.**
 
 
 
@@ -211,7 +211,7 @@ Escribimos en la terminal el mensaje que ha aparecido y ya lo tendríamos actual
 
 
 
-#### **24. Nos movemos desde nuestra posición actual a */home/nuestrousuario/* **
+#### **24. Nos movemos desde nuestra posición actual a */home/nuestrousuario/*.**
 
 
 
